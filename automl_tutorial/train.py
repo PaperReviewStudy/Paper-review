@@ -5,7 +5,7 @@ import models
 
 import argparse
 ex = Experiment('juntae')
-ex.observers.append(MongoObserver.create(url='mongodb+srv://juntae:qlalfqjgh1!@cluster0-meoyr.gcp.mongodb.net/test?retryWrites=true&w=majority',
+ex.observers.append(MongoObserver.create(url='[your_url]',
                                          db_name='experiments'))
 
 def get_params():

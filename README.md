@@ -6,6 +6,8 @@
 
 ## Natural Language Processing
 
+- BPE-Dropout: Simple and Effective Subword Regularization, Ivan Provilkov [[paper]](https://arxiv.org/abs/1910.13267)
+
 ## Reinforcement Learning
 
 ## Meta-Learning

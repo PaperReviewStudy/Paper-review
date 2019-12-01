@@ -4,6 +4,8 @@
 
 ## Computer Vision
 
+- sinGAN: Learning a Generative Model from a Single Natural Image [[paper]](https://arxiv.org/abs/1905.01164)
+
 ## Natural Language Processing
 
 - BPE-Dropout: Simple and Effective Subword Regularization, Ivan Provilkov [[paper]](https://arxiv.org/abs/1910.13267)

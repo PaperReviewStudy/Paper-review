@@ -13,6 +13,7 @@
 ## Reinforcement Learning
 
 ## Meta-Learning
+- Recent Trends of Meta Learning
 
 ## Robotics
 
